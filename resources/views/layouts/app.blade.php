@@ -134,22 +134,6 @@
                     </a>
                 </section>
             </div>
-            <div class="text-center p-3 bg-success">
-                © 2023 Copyright: Design by
-                <a
-                    class="text-primary text-decoration-none fw-bold"
-                    href="https://www.figma.com/@bunyodboss"
-                >
-                    bunnyodboss
-                </a>
-                , Code by
-                <a
-                    class="text-primary text-decoration-none fw-bold"
-                    href="https://www.github.com/MirzaMaulana"
-                >
-                    MirzaMaulana
-                </a>
-            </div>
         </footer>
     </body>
 </html>
